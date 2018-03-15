@@ -9,4 +9,7 @@ public class LyricActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lyric);
     }
+
+
+
 }

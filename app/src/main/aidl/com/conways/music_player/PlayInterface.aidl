@@ -13,6 +13,8 @@ interface PlayInterface {
             double aDouble, String aString);
     float getPlayerProgress();
     void play(in Music music);
-
+    void pause();
+    void playNext();
+    void playPrevious();
 
 }
